@@ -1,0 +1,2 @@
+# Air Bnb Clone
+In this project I am making clone of air bnb website where you can search localion for visiting .Here you can check the price of location, reviews , ratings and many more. You can also register as seller.
